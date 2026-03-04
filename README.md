@@ -32,3 +32,8 @@ To test this out yourself, follow these steps:
 ```bash
 # Example command to run the python script
 python robohand_emg.py   (for mac use python3)
+
+
+## Instructables article:
+
+[Here](https://www.instructables.com/Control-a-Robotic-Hand-With-Your-Muscles-and-ESP-E/)

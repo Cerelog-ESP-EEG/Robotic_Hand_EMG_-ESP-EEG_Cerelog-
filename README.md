@@ -14,7 +14,7 @@ This project showcases how to capture electromyography (EMG) data using the **ES
 ## ⚙️ Hardware Required
 
 * **Cerelog ESP-EEG:** Bio-signal sensor used to read the EMG data.
-* **uHand:** The robotic hand used in this demo. (Available on [Amazon](https://www.amazon.com/Movement-Mechanical-Engineering-Programming-Standard/dp/B0D479BJ7J/ref=sr_1_1?dib=eyJ2IjoiMSJ9.uSgATQcUyhgHMBCS6dALnw.357YmDhfY059PnYAUX0FkxyW23NU66B9yQJaSJX3KmA&dib_tag=se&keywords=uHand&qid=1772597706&sr=8-1&th=1) for ~$160). Note: Cerelog isn't çç with this vendor.
+* **uHand:** The robotic hand used in this demo. (Available on [Amazon](https://www.amazon.com/Movement-Mechanical-Engineering-Programming-Standard/dp/B0D479BJ7J/ref=sr_1_1?dib=eyJ2IjoiMSJ9.uSgATQcUyhgHMBCS6dALnw.357YmDhfY059PnYAUX0FkxyW23NU66B9yQJaSJX3KmA&dib_tag=se&keywords=uHand&qid=1772597706&sr=8-1&th=1) for ~$160). Note: Cerelog isn't affiliated with this vendor.
 * **Electrodes & Leads:** To attach to the user's arm for signal detection.
 
 ## 🚀 How to Run the Demo

@@ -27,4 +27,4 @@ To test this out yourself, follow these steps:
 
 ```bash
 # Example command to run the python script
-python connect_hand.py
+python robohand_emg.py   (for mac use python3)

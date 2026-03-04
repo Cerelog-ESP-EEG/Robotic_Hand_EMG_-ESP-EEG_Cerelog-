@@ -1,7 +1,30 @@
-Demo of using EMG capability of ESP-EEG to control Robotic Hand 
-www.cerelog.com 
-Hand used is called the uHand. I got it on amazon for ~160
-To try this demo script flash the arduino firmware to the robotic hand and run python script to connect cerelog ESP-EEG to hand. 
+# ESP-EEG Robotic Hand Controller 🤖
 
+A demonstration of using the EMG capability of the ESP-EEG bio-signal sensor to control a robotic hand.
 
-Video https://youtube.com/shorts/xjNg0UMrPlc?si=EgGIO7fhjGFAiRqD 
+[![ESP-EEG Robotic Hand Demo](https://img.youtube.com/vi/xjNg0UMrPlc/maxresdefault.jpg)](https://youtube.com/shorts/xjNg0UMrPlc?si=EgGIO7fhjGFAiRqD)  
+*(Click the image above to watch the demo on YouTube)*
+
+## 📝 Overview
+
+This project showcases how to capture electromyography (EMG) data using the **ESP-EEG** and map those muscle signals to control a robotic hand in real-time. 
+
+* **Learn more about ESP-EEG:** [www.cerelog.com](https://www.cerelog.com)
+
+## ⚙️ Hardware Required
+
+* **Cerelog ESP-EEG:** Bio-signal sensor used to read the EMG data.
+* **uHand:** The robotic hand used in this demo. (Available on [Amazon](https://www.amazon.com) for ~$160).
+* **Electrodes & Leads:** To attach to the user's arm for signal detection.
+
+## 🚀 How to Run the Demo
+
+To test this out yourself, follow these steps:
+
+1. **Flash the Firmware:** Upload the Arduino firmware provided in this repository to the uHand robotic hand.
+2. **Setup the ESP-EEG:** Connect the electrodes to your arm and ensure the ESP-EEG is powered and ready to transmit data.
+3. **Run the Script:** Execute the Python script to bridge the connection between the Cerelog ESP-EEG and the uHand.
+
+```bash
+# Example command to run the python script
+python connect_hand.py

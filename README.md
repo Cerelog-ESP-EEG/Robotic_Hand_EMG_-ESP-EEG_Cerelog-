@@ -5,6 +5,8 @@ A demonstration of using the EMG capability of the ESP-EEG bio-signal sensor to 
 [![ESP-EEG Robotic Hand Demo](https://img.youtube.com/vi/xjNg0UMrPlc/maxresdefault.jpg)](https://youtube.com/shorts/xjNg0UMrPlc?si=EgGIO7fhjGFAiRqD)  
 *(Click the image above to watch the demo on YouTube)*
 
+[Instructables article: Here](https://www.instructables.com/Control-a-Robotic-Hand-With-Your-Muscles-and-ESP-E/)
+
 ## 📝 Overview
 
 This project showcases how to capture electromyography (EMG) data using the **ESP-EEG** and map those muscle signals to control a robotic hand in real-time. 
@@ -34,6 +36,6 @@ To test this out yourself, follow these steps:
 python robohand_emg.py   (for mac use python3)
 
 
-## Instructables article:
 
-[Here](https://www.instructables.com/Control-a-Robotic-Hand-With-Your-Muscles-and-ESP-E/)
+
+

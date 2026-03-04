@@ -9,7 +9,7 @@ A demonstration of using the EMG capability of the ESP-EEG bio-signal sensor to 
 
 This project showcases how to capture electromyography (EMG) data using the **ESP-EEG** and map those muscle signals to control a robotic hand in real-time. 
 
-* **Learn more about ESP-EEG:** [www.cerelog.com](https://www.cerelog.com)
+* **Learn more about ESP-EEG:** [www.cerelog.com](https://www.cerelog.com/eeg_researchers.html)
 
 ## ⚙️ Hardware Required
 

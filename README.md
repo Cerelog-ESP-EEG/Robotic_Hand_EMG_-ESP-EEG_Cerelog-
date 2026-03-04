@@ -17,6 +17,10 @@ This project showcases how to capture electromyography (EMG) data using the **ES
 * **uHand:** The robotic hand used in this demo. (Available on [Amazon](https://www.amazon.com/Movement-Mechanical-Engineering-Programming-Standard/dp/B0D479BJ7J/ref=sr_1_1?dib=eyJ2IjoiMSJ9.uSgATQcUyhgHMBCS6dALnw.357YmDhfY059PnYAUX0FkxyW23NU66B9yQJaSJX3KmA&dib_tag=se&keywords=uHand&qid=1772597706&sr=8-1&th=1) for ~$160). Note: Cerelog isn't affiliated with this vendor.
 * **Electrodes & Leads:** To attach to the user's arm for signal detection.
 
+## Special electrode connection note;
+
+This demo requries use of just Ch1. To connect, put (1+ and srb1) across a muscle group with tEMS pads and electrode gel. You then need to place one more elecrode on either elbow or wrist for biasing (USE either Bias pin or GND pin). **Special note:** I recomend you try this out with the 'GND' pin instead of Bias for EMG demo usage.
+
 ## 🚀 How to Run the Demo
 
 To test this out yourself, follow these steps:
